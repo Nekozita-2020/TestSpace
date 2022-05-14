@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/TestScene.unity
+    path: Assets/Nekozita/Scenes/TestScene.unity
     guid: b353f29745d6d454e8492d37440f1f84
   m_configObjects: {}
