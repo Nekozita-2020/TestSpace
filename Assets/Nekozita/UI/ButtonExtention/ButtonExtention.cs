@@ -13,6 +13,9 @@ namespace Nekozita
     /// </summary>
     public class ButtonExtention : Button , IPointerDownHandler, IPointerUpHandler
     {
+
+
+
         /// <summary>
         /// Buttonが押下された時
         /// </summary>
